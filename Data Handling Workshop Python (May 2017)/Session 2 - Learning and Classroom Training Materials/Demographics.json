@@ -1,0 +1,16 @@
+{
+    "Country":
+        {
+            "id": "India",
+            "iscategorical": "0"
+        }
+    ,
+    "State": {
+        "id": "TamilNadu",
+		"iscategorical": "1"
+    },
+    "Population":{
+        "id": "77.8m",
+		"iscategorical": "1"
+    }
+}

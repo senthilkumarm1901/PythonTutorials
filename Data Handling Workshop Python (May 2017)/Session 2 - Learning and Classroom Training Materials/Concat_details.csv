@@ -1,0 +1,9 @@
+,Score,Student_ID,Subjects,Professor,Subjects
+0,99,1,Statistics,Kamesh,Statistics
+1,100,2,Python,Vivek,Python
+2,90,3,R,Vishal,R
+3,99,4,Tableau,Ram,Tableau
+4,80,4,HTML_based_Visualization,Pawan,HTML_based_Visualization
+5,57,3,Apache-Spark,Abishek,Apache-Spark
+6,40,2,MachineLearning,Deepak,MachineLearning
+7,39,1,Artificial Intelligence,,

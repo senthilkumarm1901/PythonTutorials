@@ -1,0 +1,17 @@
+Marks,Student_ID,Subjects,Subject_Category,Name,Location,Gender
+99,1,Statistics,Concept_based,Anuradha,Chennai,Female
+100,2,Python,Tool_based,Balu,Mumbai,Male
+90,3,R,Tool_based,Charan,Delhi,Male
+99,4,Tableau,Tool_based,David,Hyderabad,Male
+80,4,HTML_based_Visualization,Tool_based,David,Hyderabad,Male
+57,3,Python,Tool_based,Charan,Delhi,Male
+40,2,MachineLearning,Concept_based AND Tool_based,Balu,Mumbai,Male
+39,1,Artificial Intelligence,Concept_based AND Tool_based,Anuradha,Chennai,Female
+77,1,Tableau,Tool_based,Anuradha,Chennai,Female
+100,2,Apache-Spark,Tool_based,Balu,Mumbai,Male
+80,3,Statistics,Concept_based,Charan,Delhi,Male
+60,4,Statistics,Concept_based,David,Hyderabad,Male
+50,4,Python,Tool_based,David,Hyderabad,Male
+57,3,Apache-Spark,Tool_based,Charan,Delhi,Male
+40,2,R,Tool_based,Balu,Mumbai,Male
+70,1,HTML_based_Visualization,Tool_based,Anuradha,Chennai,Female
